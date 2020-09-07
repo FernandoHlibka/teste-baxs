@@ -1,0 +1,19 @@
+{
+  "name": "teste-banco",
+  "version": "1.0.0",
+  "description": "terminal and api of test",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "chai": "^0.1.3",
+    "node-modules": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoHlibka/teste-baxs.git"
+  },
+  "author": "Fernando Deininger Hlibka",
+  "license": "ISC"
+}
